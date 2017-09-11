@@ -1,1 +1,1 @@
-# cs3240-labdemo $WAGCITY, UTAH
+# cs3240-labdemo $WAGCITY, New York
